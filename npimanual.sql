@@ -1,0 +1,1 @@
+INSERT INTO `npimanual` VALUES ('AMD-CPU', 'KINGSTON', 'Man', '2016-2-1 10:08:03', '', 'Y', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w');
